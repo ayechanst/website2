@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'ayechanWeb3Dev'
+theme = 'risotto'
+
+# Automatically add content sections to main menu
+# sectionPagesMenu = "main"
+
+# Sidebar: about/bio
+[params.about]
+title = "My name is Aye Chan"
+description = "I am a 23 year old self taught web developer who decided my career in philosophy would not have as much of an impact on the world as a career in Web3."
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/ayechanst?ocid=AIDcmmc3fhtaow_SEM_3a7855d57351117d9c41364ee276a10e:G:s"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:ayechan.sant@gmail.com"

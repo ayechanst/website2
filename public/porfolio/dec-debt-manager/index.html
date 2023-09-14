@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head><title>Decentralized Communal Debt Manager &ndash; ayechanWeb3Dev</title>
+<meta name="description" content="I am a 23 year old self taught web developer who decided my career in philosophy would not have as much of an impact on the world as a career in Web3.">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8"/>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.1/css/academicons.min.css" integrity="sha512-b1ASx0WHgVFL5ZQhTgiPWX+68KjS38Jk87jg7pe+qC7q9YkEtFq0z7xCglv7qGIs/68d3mAp+StfC8WKC5SSAg==" crossorigin="anonymous" />
+
+
+<link rel="stylesheet" href="https://example.org/css/palettes/base16-dark.css">
+<link rel="stylesheet" href="https://example.org/css/risotto.css">
+<link rel="stylesheet" href="https://example.org/css/custom.css">
+
+
+
+
+
+
+
+</head>
+
+    <body>
+        <div class="page">
+
+            <header class="page__header"><nav class="page__nav main-nav">
+    <ul>
+    <h1 class="page__logo"><a href="https://example.org/" class="page__logo-inner">ayechanWeb3Dev</a></h1>
+    
+    
+    </ul>
+</nav>
+
+</header>
+
+            <section class="page__body">
+    <header class="content__header">
+        <h1>Decentralized Communal Debt Manager</h1>
+    </header>
+    
+    <div class="content__body">
+        <p>A decentralized communal debt manager is a tool that I decided to build because at
+the time of writting this I live in house with other people, and we share food, rental
+equipment, and pay for each others things often. This makes debt management a priority.</p>
+<p>Project link: <a href="https://debt-manager-nextjs-hwubl6giq-ayechanst.vercel.app/">Debt Manager</a></p>
+<h1 id="goals">Goals</h1>
+<ol>
+<li>Add different groups where debts are tracked separately</li>
+<li>Add people to groups</li>
+<li>Add transactions between people in groups</li>
+<li>Display all debts in an easy to read manner</li>
+</ol>
+<h1 id="tools">Tools</h1>
+<p>Solidity, React, Next.js, TypeScript, Daisy UI, Scaffold-Eth 2.0, Hardhat</p>
+<h1 id="how-it-works">How it works</h1>
+<p>Imagine Jim goes shopping at Costco so Sam can cook food for him, Joe, and
+Dan. Jim would log his grocery recipe in the app and mark everyone as a beneficiary.
+Jim spent 400 so everyone owes him 100. Joe goes on a beer and cigarette run the next
+day, spends 75, and logs the purchase in the app. Sam does not drink or smoke however
+so she is not included in the list of beneficiaries. Now Joe owes Jim less than before,
+Dan owes Jim and Joe now, and Sam owes Jim the same amount. The idea is that debts get
+shifted around instead of needing to be paid immediately.</p>
+<h1 id="graph-data-structure">Graph data structure</h1>
+<p>My biggest problem was how I was going to store two types of data (people, and transactions)
+in a way that would be easy to read from. While researching how to accomplish this I discovered
+graphs. Graphs were straightforward but applying them to my project was difficult because
+resources that explain graphs don&rsquo;t typically use Solidity as their langauge of choice for their
+demonstration. I ended up using structs to represent my edges (transaction data) and nodes (people)
+and storing the edges in a mapping.</p>
+<h1 id="adding-groups">Adding groups</h1>
+<p>Having different groups is a feature I added mid-development because its a very nice
+feature and I didn&rsquo;t originially think of it. This was a big challenge because I had already
+designed my graph data structure to work for a singular group. I overcame this by storing
+graphs in a mapping, and accessing the mapping through a key that is generated upon group
+creation. The biggest problem was Solidity does not like storing structs that have structs
+with arrays in them into a mapping. Retrieving data from the graphs was impossible, so I
+stored my edges and nodes to my graph globally in mappings, and when retrieving data I used
+keys to access specific group data depending on the kind of data the front end wanted.</p>
+<h1 id="adding-transactions">Adding transactions</h1>
+<p>The Solidity for this feature was not as hard as implementing the graph, but challenging
+on the front end. I learned a lot about React in this project especially about props and
+loading lists of checkboxes.</p>
+
+    </div>
+    <footer class="content__footer"></footer>
+
+            </section>
+
+            <section class="page__aside">
+                <div class="aside__about">
+<div class="aside__about">
+    
+<h1 class="about__title">My name is Aye Chan</h1>
+<p class="about__description">I am a 23 year old self taught web developer who decided my career in philosophy would not have as much of an impact on the world as a career in Web3.</p>
+</div>
+
+
+<ul class="aside__social-links">
+    
+    <li>
+        <a href="https://github.com/ayechanst?ocid=AIDcmmc3fhtaow_SEM_3a7855d57351117d9c41364ee276a10e:G:s" rel="me" aria-label="GitHub" title="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+    <li>
+        <a href="mailto:ayechan.sant@gmail.com" rel="me" aria-label="Email" title="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+</ul>
+</div>
+                <hr>
+                <div class="aside__content">
+    
+    
+        <p>
+            
+            2023-09-08
+        </p>
+    
+
+    
+
+                </div>
+            </section>
+
+            <footer class="page__footer"><p>
+    
+    
+    
+    
+    
+    
+    
+    
+</p>
+<br /><br />
+<p class="copyright"></p>
+<p class="advertisement">Powered by <a href="https://gohugo.io/">hugo</a> and <a href="https://github.com/joeroe/risotto">risotto</a>.</p>
+</footer>
+
+        </div>
+    </body>
+
+</html>

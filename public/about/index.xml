@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on ayechanWeb3Dev</title>
+    <link>https://example.org/about/</link>
+    <description>Recent content in Abouts on ayechanWeb3Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Sep 2023 08:41:21 -0700</lastBuildDate><atom:link href="https://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Life</title>
+      <link>https://example.org/about/personal-life/</link>
+      <pubDate>Fri, 08 Sep 2023 08:41:21 -0700</pubDate>
+      
+      <guid>https://example.org/about/personal-life/</guid>
+      <description>My first name is Aye Chan with a space in it, it causes a lot of confusion. I was born in France, and I am passionate about philosophy, cooking, nature, people, and programming.
+Education I&amp;rsquo;ve never been a fan of conventional public schooling, other than all the interesting people who come from all walks of life. Pre-college, I went to schools in California, Hawaii, and Florida. After highschool I graduated from the Univeristy of West Florida where I discovered my passion for philosophy.</description>
+    </item>
+    
+    <item>
+      <title>Web3 Journey</title>
+      <link>https://example.org/about/journey/</link>
+      <pubDate>Thu, 07 Sep 2023 16:40:56 -0700</pubDate>
+      
+      <guid>https://example.org/about/journey/</guid>
+      <description>ayechan@pop-os:~/about/journey
+I got into crypto and web development my senior year of college after a long talk with the chairman of the philosophy department. I studied philosophy in college and I was entertaining the thought of continuing my education and eventually become a philosophy professor. My passion for philosophy has no bounds, but the social and hierarchical structure of academia along with its obligations did not match with my life philosophy, so I decided to go a different route.</description>
+    </item>
+    
+  </channel>
+</rss>

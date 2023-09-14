@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on ayechanWeb3Dev</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Welcome on ayechanWeb3Dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Sep 2023 12:32:26 -0700</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dungeons and Dragons Store</title>
+      <link>https://example.org/porfolio/dnd-store/</link>
+      <pubDate>Fri, 08 Sep 2023 13:27:22 -0700</pubDate>
+      
+      <guid>https://example.org/porfolio/dnd-store/</guid>
+      <description>As a dungeon master for my pary adventuring through Icewind Dale, I wanted to build a tool that would make my job easier. Players visiting shops was a problem for me because shops have hundreds of items and sometimes shops don&amp;rsquo;t exactly have what players are looking for. So I turned to the internet to generate random stores for me, but none of them were satisfactory to my standards. So I started to create my own.</description>
+    </item>
+    
+    <item>
+      <title>Dec Staking</title>
+      <link>https://example.org/porfolio/dec-staking/</link>
+      <pubDate>Fri, 08 Sep 2023 13:26:56 -0700</pubDate>
+      
+      <guid>https://example.org/porfolio/dec-staking/</guid>
+      <description>This project allows users to pool money together and get their money back after two conditions are met. First a certain amount of time needs to have passed, and second the a minumum threshold of money in the pool needs to be met. If the monetary goal is met, then the stake was a success and users can use the pooled money to accomplish their larger goal. If the monetary goal is not met, then after a certain amount of time users can get their money back and try again.</description>
+    </item>
+    
+    <item>
+      <title>Decentralized Gaming</title>
+      <link>https://example.org/porfolio/defi-gaming/</link>
+      <pubDate>Fri, 08 Sep 2023 13:23:58 -0700</pubDate>
+      
+      <guid>https://example.org/porfolio/defi-gaming/</guid>
+      <description>The goal of this project was to get hands on experience building a decentralized app from start to finish. The app allows two different users to play rock paper scissors against each other without the risk of either player cheating.
+Game Flow
+The host player can begin a game session by inputting their opponent&amp;rsquo;s wallet address. Once the session is live, the address or join code of the session is displayed.</description>
+    </item>
+    
+    <item>
+      <title>Spyglass Labs</title>
+      <link>https://example.org/porfolio/spyglass/</link>
+      <pubDate>Fri, 08 Sep 2023 13:10:53 -0700</pubDate>
+      
+      <guid>https://example.org/porfolio/spyglass/</guid>
+      <description>Spyglass Labs is a web3 startup that I intered at. The platform is a no-code data analytics platform similar to something like Dune Analytics.
+Goals Gather data to demonstrate the functionality of the platform Write tests to ensure the UI and UX works smoothly as new features are implemented Tools Javascript, Python, Cypress, Selenium, Infura
+Data gathering execution for Ethereum mainnet and Near The data my intern colleague and I collected were the names and ABI&amp;rsquo;s of the 100 most transacted on smart contracts.</description>
+    </item>
+    
+    <item>
+      <title>Decentralized Communal Debt Manager</title>
+      <link>https://example.org/porfolio/dec-debt-manager/</link>
+      <pubDate>Fri, 08 Sep 2023 11:30:06 -0700</pubDate>
+      
+      <guid>https://example.org/porfolio/dec-debt-manager/</guid>
+      <description>A decentralized communal debt manager is a tool that I decided to build because at the time of writting this I live in house with other people, and we share food, rental equipment, and pay for each others things often. This makes debt management a priority.
+Project link: Debt Manager
+Goals Add different groups where debts are tracked separately Add people to groups Add transactions between people in groups Display all debts in an easy to read manner Tools Solidity, React, Next.</description>
+    </item>
+    
+    <item>
+      <title>Personal Life</title>
+      <link>https://example.org/about/personal-life/</link>
+      <pubDate>Fri, 08 Sep 2023 08:41:21 -0700</pubDate>
+      
+      <guid>https://example.org/about/personal-life/</guid>
+      <description>My first name is Aye Chan with a space in it, it causes a lot of confusion. I was born in France, and I am passionate about philosophy, cooking, nature, people, and programming.
+Education I&amp;rsquo;ve never been a fan of conventional public schooling, other than all the interesting people who come from all walks of life. Pre-college, I went to schools in California, Hawaii, and Florida. After highschool I graduated from the Univeristy of West Florida where I discovered my passion for philosophy.</description>
+    </item>
+    
+    <item>
+      <title>Web3 Journey</title>
+      <link>https://example.org/about/journey/</link>
+      <pubDate>Thu, 07 Sep 2023 16:40:56 -0700</pubDate>
+      
+      <guid>https://example.org/about/journey/</guid>
+      <description>ayechan@pop-os:~/about/journey
+I got into crypto and web development my senior year of college after a long talk with the chairman of the philosophy department. I studied philosophy in college and I was entertaining the thought of continuing my education and eventually become a philosophy professor. My passion for philosophy has no bounds, but the social and hierarchical structure of academia along with its obligations did not match with my life philosophy, so I decided to go a different route.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.org/about-landing-page/</link>
+      <pubDate>Thu, 07 Sep 2023 12:05:12 -0700</pubDate>
+      
+      <guid>https://example.org/about-landing-page/</guid>
+      <description>A little about myself that is not work related
+Journey to Web3 Slighly work related&amp;hellip; but this is how I found myself doing web3 development as a traditionally educated fresh out of college person.
+Life Timeline I grew up in a lot of places, all of which are mentioned here I give credit to my environment for shaping me into who I am.
+Philosophical Interests I didn&amp;rsquo;t study philosophy because it was an easy liberal arts major (it was).</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://example.org/project-landing-page/</link>
+      <pubDate>Thu, 07 Sep 2023 12:05:12 -0700</pubDate>
+      
+      <guid>https://example.org/project-landing-page/</guid>
+      <description>A list of projects I&amp;rsquo;ve worked on with a brief description. Click for more details.
+Spyglass Labs Some work I did at a blockchain data analytics start-up
+Decentralized Communal Debt Management An application that keeps track of debt among a group of people
+D&amp;amp;D store generator A useful application for dungeon masters
+Decentralized Gaming A game I built using a commit reveal scheme
+Decentralized Staking App An application that allows users to pool money together</description>
+    </item>
+    
+  </channel>
+</rss>
