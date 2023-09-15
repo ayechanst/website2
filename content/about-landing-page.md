@@ -13,7 +13,7 @@ development as a traditionally educated fresh out of college person.
 
 ----
 
-# Life Timeline
+# [Autobiography](../about/autobiography)
 I grew up in a lot of places, all of which are mentioned here I give
 credit to my environment for shaping me into who I am.
 
