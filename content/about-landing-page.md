@@ -19,7 +19,7 @@ credit to my environment for shaping me into who I am.
 
 ----
 
-# Philosophical Interests
+# [Philosophical Interests](../about/philosophical-interests)
 I didn't study philosophy because it was an easy liberal arts major 
 (it was). I studied philosophy because it quenched my thirst for 
 knowledge which was something science alone couldn't do.
