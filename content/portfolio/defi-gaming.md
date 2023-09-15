@@ -3,8 +3,13 @@ title = 'Decentralized Gaming'
 date = 2023-09-08T13:23:58-07:00
 +++
 
-[Block Paper Scissors](https://block-paper-scissors.vercel.app/) is a game that uses 
-a commit reveal scheme to make cheating impossible.
+Block Paper Scissors is a game that uses a commit reveal scheme to make cheating impossible.
+The purpose of the project was to familiarize myself with building a front-end for a smart
+contract. The contract follows the same struture as a blog that demonstrated a rock paper
+scissors game, but the code was very broken and also did not properly implement the commit
+reveal scheme. I fixed the code and the scheme. 
+
+Project link: [Block Paper Scissors](https://block-paper-scissors-nextjs-kdij1aa2q-ayechanst.vercel.app/)
 
 # Goals
 1. Allow a player to host a game
@@ -31,7 +36,7 @@ smart contract that took in two arguments from the front end, which was the
 players choice and the players salt. This was a big security problem because
 etherscan and other websites that monitor the blockchain can read the argument
 values. Because of this, players choices and salt were on public display. This
-problem was fixed when I use the ether.js library to hash player's answers in
+problem was fixed when I use the ethers.js library to hash player's answers in
 the React component, instead of in the contract. 
 
 # Reveal phase

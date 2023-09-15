@@ -3,7 +3,7 @@ title = 'Decentralized Communal Debt Manager'
 date = 2023-09-08T11:30:06-07:00
 +++
 
-A decentralized communal debt manager is a tool that I decided to build because at 
+This is a tool that I decided to build because at 
 the time of writting this I live in house with other people, and we share food, rental
 equipment, and pay for each others things often. This makes debt management a priority.  
 

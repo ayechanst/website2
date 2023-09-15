@@ -41,8 +41,8 @@ My skills really took off however after I moved to California
 and had refined all my tools to build quickly and comfortably.
 I switched to a split keyboard, learned vim, and learned to use
 Doom Emacs. This big location switch and tool improvement helped
-me not be bogged down by non-code related problems and I began 
-start my own projects. I learned tailwind CSS, React, TypeScript,
+me not be bogged down by non-code related problems and I started directing
+my own projects. I learned tailwind CSS, React, TypeScript,
 Bash and Solidity in a few months to build what I wanted to. By 
 building projects that were helpful to me in my own personal 
 life, I learned a lot more about programming and work ethic than
