@@ -7,7 +7,7 @@ A list of projects I've worked on with a brief description. Click for more detai
 
 ----
 
-# [Spyglass Labs](/portfolio/spyglass)
+# [Spyglass Labs](../portfolio/spyglass)
 Some work I did at a blockchain data analytics start-up
 
 ----
