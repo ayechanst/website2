@@ -32,7 +32,7 @@ In my final univeristy paper, I defend the claim that
 with the claim.  
 
 **DISCLAIMER**  
-I defended the claim because it was challenging, not because I agree with it
+I defended the claim because it was challenging, not because I agree with it.
 
 ---- 
 
