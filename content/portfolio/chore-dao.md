@@ -1,5 +1,5 @@
 +++
-title = 'Decentralized Communal Debt Manager'
+title = 'House DAO'
 date = 2023-09-08T11:30:06-07:00
 +++
 
