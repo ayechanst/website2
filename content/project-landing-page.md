@@ -12,7 +12,7 @@ Some work I did at a blockchain data analytics start-up
 
 ----
 
-# [House DAO](../portfolio/chore-dao.md)
+# [House DAO](../portfolio/chore-dao)
 Still being prototyped, this is a DAO that manages chores among
 a shared living space
 
