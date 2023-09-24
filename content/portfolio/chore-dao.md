@@ -2,7 +2,7 @@
 title = 'House DAO'
 date = 2023-09-08T11:30:06-07:00
 +++
-
+d
 A tool to keep a house clean autonomously.   
 
 Projet link: Not available yet

@@ -16,6 +16,8 @@ Some work I did at a blockchain data analytics start-up
 Still being prototyped, this is a DAO that manages chores among
 a shared living space
 
+---- 
+
 # [Decentralized Communal Debt Management](../portfolio/dec-debt-manager)
 An application that keeps track of debt among a group of people
 
