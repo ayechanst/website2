@@ -1,7 +1,7 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'ayechanWeb3Dev'
+baseURL = "https://risotto.joeroe.io"
 theme = 'risotto'
+title = 'ayechan portfolio'
+languageCode = 'en-us'
 
 # Automatically add content sections to main menu
 # sectionPagesMenu = "main"
