@@ -37,14 +37,15 @@ out that would be a challenge so I could overcome that resistance.
 # Personal interest in post-modernism
 
 My interest in post-modernism stems from school, and the post-modern ideas
-they pushed in so many different classes. I do not agree with post-modernism, 
+they pushed in so many different classes. I do not agree with post-modernism
+and its outlook on the world,
 and I was curious about where these ideas came from in the first place. My 
 interest in post-modernism comes from how much I disagree with its thesis. 
 Post-modernism's own logic invalidates itself and I seek to understand why 
 anyone would subscribe to its claims. Whether I agree with the tennets of 
 post-modernism or not does not change that it is an interesting field of 
-philosophy and contributing to its body of work is one way to try and group
-it in some reality. 
+philosophy and contributing to its body of work is one way of making it
+better.
 
 
 

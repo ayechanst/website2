@@ -38,8 +38,3 @@ I defended the claim because it was challenging, not because I agree with it.
 
 # Swim Career and Fitness
 I grew up a swimmer and fitness is something dear to me.
-
----- 
-
-# Nerd Sh!t
-I love Magic the Gathering and Dungeons & Dragons

@@ -18,6 +18,11 @@ a shared living space
 
 ---- 
 
+# [Narcos Substreams](../portfolio/narcos-subgraph)
+A Substreams powered Subgraph with all Narcos NFT mintings
+
+---- 
+
 # [Decentralized Communal Debt Management](../portfolio/dec-debt-manager)
 An application that keeps track of debt among a group of people
 
