@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head><title>Tags &ndash; ayechan portfolio</title>
+    <head><title>Decentralized Gaming &ndash; ayechan portfolio</title>
 <meta name="description" content="I am a 23 year old self taught web developer who decided my career in philosophy would not have as much of an impact on the world as a career in Web3.">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -41,14 +41,56 @@
 </header>
 
             <section class="page__body">
-    <h1 id="tags">Tags</h1>
-
+    <header class="content__header">
+        <h1>Decentralized Gaming</h1>
+    </header>
     
+    <div class="content__body">
+        <p>Block Paper Scissors is a game that uses a commit reveal scheme to make cheating impossible.
+The purpose of the project was to familiarize myself with building a front-end for a smart
+contract. The contract follows the same struture as a blog that demonstrated a rock paper
+scissors game, but the code was very broken and also did not properly implement the commit
+reveal scheme. I fixed the code and the scheme.</p>
+<p>Project link: <a href="https://block-paper-scissors-nextjs-kdij1aa2q-ayechanst.vercel.app/">Block Paper Scissors</a></p>
+<h1 id="goals">Goals</h1>
+<ol>
+<li>Allow a player to host a game</li>
+<li>Allow a different player to join that same game</li>
+<li>Have the players commit an answer with salt</li>
+<li>Have the players reveal their answer at the same time</li>
+<li>Compare the answers and determine a winner</li>
+</ol>
+<h1 id="tools">Tools</h1>
+<p>TypeScript, Solidity, Hardhat, Scaffold-eth 2, Ethers.js, Daisy-ui</p>
+<h1 id="hosting-and-joining-a-game">Hosting and joining a game</h1>
+<p>Player 1 creates a game by putting in the wallet address of their opponent.
+There is an enum that changes from join phase, commit phase, reveal phase,
+and results phase. While the player 1 waits for player 2 to join, the game
+stays in the join phase which is the default phase. When player 2 joins, the
+game moves on to the commit phase.</p>
+<h1 id="commit-phase--problems">Commit phase &amp; problems</h1>
+<p>Both players choose either rock, paper, or scissors, along with a salt, or
+random data to mix up into their answer, so that their opponent cannot check
+to see what that player picked. Originally the game had a function in the
+smart contract that took in two arguments from the front end, which was the
+players choice and the players salt. This was a big security problem because
+etherscan and other websites that monitor the blockchain can read the argument
+values. Because of this, players choices and salt were on public display. This
+problem was fixed when I use the ethers.js library to hash player&rsquo;s answers in
+the React component, instead of in the contract.</p>
+<h1 id="reveal-phase">Reveal phase</h1>
+<p>Once both players commit and salt their answers, the game state enum moves to
+the reveal phase were players re-input their salt, so that the reveal function
+can decrypt the hashed commit and compare the two players results.</p>
+<h1 id="results-phase">Results phase</h1>
+<p>This phase just displays who won.</p>
+<h1 id="potential-future-updates">Potential future updates</h1>
+<ol>
+<li>It would be cool to add a betting mechanism since this game is so secure</li>
+</ol>
 
-    <ul>
-    
-    </ul>
-
+    </div>
+    <footer class="content__footer"></footer>
 
             </section>
 
@@ -83,6 +125,14 @@
 </div>
                 <hr>
                 <div class="aside__content">
+    
+    
+        <p>
+            
+            2023-09-08
+        </p>
+    
+
     
 
                 </div>

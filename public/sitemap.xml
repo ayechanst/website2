@@ -2,44 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/porfolio/dnd-store/</loc>
+    <loc>https://risotto.joeroe.io/portfolio/narcos-subgraph/</loc>
+    <lastmod>2023-10-08T13:27:22-07:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/portfolio/</loc>
+    <lastmod>2023-10-08T13:27:22-07:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/portfolio/dnd-store/</loc>
     <lastmod>2023-09-08T13:27:22-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/porfolio/</loc>
-    <lastmod>2023-09-08T13:27:22-07:00</lastmod>
-  </url><url>
-    <loc>https://example.org/porfolio/dec-staking/</loc>
+    <loc>https://risotto.joeroe.io/portfolio/dec-staking/</loc>
     <lastmod>2023-09-08T13:26:56-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/porfolio/defi-gaming/</loc>
+    <loc>https://risotto.joeroe.io/portfolio/defi-gaming/</loc>
     <lastmod>2023-09-08T13:23:58-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/porfolio/spyglass/</loc>
+    <loc>https://risotto.joeroe.io/portfolio/spyglass/</loc>
     <lastmod>2023-09-08T13:10:53-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/porfolio/dec-debt-manager/</loc>
+    <loc>https://risotto.joeroe.io/portfolio/dec-debt-manager/</loc>
     <lastmod>2023-09-08T11:30:06-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/</loc>
+    <loc>https://risotto.joeroe.io/portfolio/chore-dao/</loc>
+    <lastmod>2023-09-08T11:30:06-07:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/about/</loc>
     <lastmod>2023-09-08T08:41:21-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/personal-life/</loc>
+    <loc>https://risotto.joeroe.io/about/personal-life/</loc>
     <lastmod>2023-09-08T08:41:21-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/about/journey/</loc>
+    <loc>https://risotto.joeroe.io/about/philosophical-interests/</loc>
+    <lastmod>2023-09-08T08:41:21-07:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/about/journey/</loc>
     <lastmod>2023-09-07T16:40:56-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/about-landing-page/</loc>
+    <loc>https://risotto.joeroe.io/about-landing-page/</loc>
     <lastmod>2023-09-07T12:05:12-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/project-landing-page/</loc>
+    <loc>https://risotto.joeroe.io/about/autobiography/</loc>
     <lastmod>2023-09-07T12:05:12-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://risotto.joeroe.io/project-landing-page/</loc>
+    <lastmod>2023-09-07T12:05:12-07:00</lastmod>
+  </url><url>
+    <loc>https://risotto.joeroe.io/</loc>
     <lastmod>2023-09-06T12:32:26-07:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://risotto.joeroe.io/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://risotto.joeroe.io/tags/</loc>
   </url>
 </urlset>

@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head><title>Spyglass Labs &ndash; ayechan portfolio</title>
+<meta name="description" content="I am a 23 year old self taught web developer who decided my career in philosophy would not have as much of an impact on the world as a career in Web3.">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="UTF-8"/>
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" />
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.1/css/academicons.min.css" integrity="sha512-b1ASx0WHgVFL5ZQhTgiPWX+68KjS38Jk87jg7pe+qC7q9YkEtFq0z7xCglv7qGIs/68d3mAp+StfC8WKC5SSAg==" crossorigin="anonymous" />
+
+
+<link rel="stylesheet" href="https://risotto.joeroe.io/css/palettes/base16-dark.css">
+<link rel="stylesheet" href="https://risotto.joeroe.io/css/risotto.css">
+<link rel="stylesheet" href="https://risotto.joeroe.io/css/custom.css">
+
+
+
+
+
+
+
+</head>
+
+    <body>
+        <div class="page">
+
+            <header class="page__header"><nav class="page__nav main-nav">
+    <ul>
+    <h1 class="page__logo"><a href="https://risotto.joeroe.io" class="page__logo-inner">ayechan portfolio</a></h1>
+    
+    
+    </ul>
+</nav>
+
+</header>
+
+            <section class="page__body">
+    <header class="content__header">
+        <h1>Spyglass Labs</h1>
+    </header>
+    
+    <div class="content__body">
+        <p><a href="https://soulbound.xyz">Spyglass Labs</a> is a web3 startup that I intered at. The platform is a no-code data
+analytics platform similar to something like Dune Analytics.</p>
+<h1 id="goals">Goals</h1>
+<ol>
+<li>Gather data to demonstrate the functionality of the platform</li>
+<li>Write tests to ensure the UI and UX works smoothly as new features are implemented</li>
+</ol>
+<h1 id="tools">Tools</h1>
+<p>Javascript, Python, Cypress, Selenium, Infura</p>
+<h1 id="data-gathering-execution-for-ethereum-mainnet-and-near">Data gathering execution for Ethereum mainnet and Near</h1>
+<p>The data my intern colleague and I collected were the names and ABI&rsquo;s of the 100 most transacted on smart
+contracts. The data was used to populate sample subgraphs so users could have a better idea of what Spyglass
+was capable of. The idea was that people could see Spyglass in action with some of the most popular decentralized
+apps. For mainnet, we used infura to connect to the etherscan API, then we wrote scripts in JS to filter through the data so
+that we were left with the top 100 contracts.</p>
+<p>The problem was that etherscan obscured the transation count beyond 10,000 transactions, so we were left with
+much more than 100 contracts post filtering. We got around this by writing Python scripts in Selenium to scrape
+the most popular smart contracts for their real transation count. After doing so we suspected the contracts we
+aquired were not the right ones because their transation counts were much lower than the expected number for
+such popular contracts.</p>
+<p>After that failed, my colleague and I divided the labor and he would find a work around for the mainnet problem,
+and I would scrape the Near blockchain to populate a JSON file with the required fields. The co-founders who
+assigned us this task recommended instead of data collecting based on transaction count, we should collect data
+on the basis of popularity. I found a Near website that listed the current most popular smart contracts within
+the past month and manually filled out the JSON file to completion. The mainnet file was also completed and sent.</p>
+<p>In summary this job was comprised of writing scripts that worked in terms of getting us data, but not the correct
+data. The problems were overcome by brute forcing our results which in hindsight took a lot less time than
+automating the process.</p>
+<h1 id="test-execution">Test execution</h1>
+<p>The start of the testing began with familiarizing ourselves with the Cypress testing frame work. After reading
+documentation and watching videos, we began writing a few simple tests. After those first few tests work, we spent
+time discussing and planning who was going to write which test for what. The tests I wrote ensured that the flow
+of the UX was smooth from the initial login to the viewing of the completed subgraph.</p>
+<p>The main challenge was implementing an asycronous loop in Cypress so that tests that followed the same steps
+could be looped over instead of written several times. The challenge was over come with a lot of trail and error
+but the tests were completed.</p>
+
+    </div>
+    <footer class="content__footer"></footer>
+
+            </section>
+
+            <section class="page__aside">
+                <div class="aside__about">
+<div class="aside__about">
+    
+<h1 class="about__title">My name is Aye Chan</h1>
+<p class="about__description">I am a 23 year old self taught web developer who decided my career in philosophy would not have as much of an impact on the world as a career in Web3.</p>
+</div>
+
+
+<ul class="aside__social-links">
+    
+    <li>
+        <a href="https://github.com/ayechanst?ocid=AIDcmmc3fhtaow_SEM_3a7855d57351117d9c41364ee276a10e:G:s" rel="me" aria-label="GitHub" title="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+    <li>
+        <a href="mailto:ayechan.sant@gmail.com" rel="me" aria-label="Email" title="Email"><i class="fa-solid fa-envelope" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+    <li>
+        <a href="https://t.me/ayechan1000" rel="me" aria-label="Telegram" title="Telegram"><i class="fa-brands fa-telegram" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+    <li>
+        <a href="https://twitter.com/ayechanst" rel="me" aria-label="Twitter" title="Twitter"><i class="fa-brands fa-twitter" aria-hidden="true"></i></a>&nbsp;
+    </li>
+    
+</ul>
+</div>
+                <hr>
+                <div class="aside__content">
+    
+    
+        <p>
+            
+            2023-09-08
+        </p>
+    
+
+    
+
+                </div>
+            </section>
+
+            <footer class="page__footer"><p>
+    
+    
+    
+    
+    
+    
+    
+    
+</p>
+<br /><br />
+<p class="copyright"></p>
+<p class="advertisement">Powered by <a href="https://gohugo.io/">hugo</a> and <a href="https://github.com/joeroe/risotto">risotto</a>.</p>
+</footer>
+
+        </div>
+    </body>
+
+</html>

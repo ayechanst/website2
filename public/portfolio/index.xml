@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome on ayechan portfolio</title>
-    <link>https://risotto.joeroe.io/</link>
-    <description>Recent content in Welcome on ayechan portfolio</description>
+    <title>Portfolios on ayechan portfolio</title>
+    <link>https://risotto.joeroe.io/portfolio/</link>
+    <description>Recent content in Portfolios on ayechan portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2023 12:32:26 -0700</lastBuildDate>
-    <atom:link href="https://risotto.joeroe.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Oct 2023 13:27:22 -0700</lastBuildDate>
+    <atom:link href="https://risotto.joeroe.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Narcos Substreams Powered Subgraph</title>
       <link>https://risotto.joeroe.io/portfolio/narcos-subgraph/</link>
@@ -63,59 +63,6 @@ Goals Add different groups where debts are tracked separately Add people to grou
 Projet link: Not available yet
 Goals Have the DAO be able to mint custom task NFT&amp;rsquo;s Have the DAO payout completed task NFT&amp;rsquo;s when submitted to the Bounty Contract Automate the minting of custom task NFT&amp;rsquo;s Allow members to trade NFT&amp;rsquo;s Tools Solidity, OpenZepplin, Next.js, TypeScript, Daisy UI, Scaffold-Eth 2.0, Hardhat
 How it works Members can join the DAO</description>
-    </item>
-    <item>
-      <title>Personal Life</title>
-      <link>https://risotto.joeroe.io/about/personal-life/</link>
-      <pubDate>Fri, 08 Sep 2023 08:41:21 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/about/personal-life/</guid>
-      <description>My first name is Aye Chan with a space in it, it causes a lot of confusion. I was born in France, and I am passionate about philosophy, cooking, nature, people, and programming.
-Education I&amp;rsquo;ve never been a fan of conventional public schooling, other than all the interesting people who come from all walks of life. Pre-college, I went to schools in California, Hawaii, and Florida. After highschool I graduated from the Univeristy of West Florida where I discovered my passion for philosophy.</description>
-    </item>
-    <item>
-      <title>Philosophical Interests</title>
-      <link>https://risotto.joeroe.io/about/philosophical-interests/</link>
-      <pubDate>Fri, 08 Sep 2023 08:41:21 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/about/philosophical-interests/</guid>
-      <description>I studied philosophy in college and my favorite classes were the philosophy of science, and critical thinking. I also enjoyed my aesthetic classes like the philosophy of art, the philosophy of film, and the philosophy of mind. Classes I like a bit less was modern philosophy which covered thinkers between 1600-1800.
-Personal interest in existentialism Existentialism is probably my favorite type of philosophy because it helped me cope with starting my adult life, away from parental guidance, my obligations as a son, and my rigorous swim career.</description>
-    </item>
-    <item>
-      <title>Web3 Journey</title>
-      <link>https://risotto.joeroe.io/about/journey/</link>
-      <pubDate>Thu, 07 Sep 2023 16:40:56 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/about/journey/</guid>
-      <description>ayechan@pop-os:~/about/journey
-I got into crypto and web development my senior year of college after a long talk with the chairman of the philosophy department. I studied philosophy in college and I was entertaining the thought of continuing my education and eventually become a philosophy professor. My passion for philosophy has no bounds, but the social and hierarchical structure of academia along with its obligations did not match with my life philosophy, so I decided to go a different route.</description>
-    </item>
-    <item>
-      <title>About</title>
-      <link>https://risotto.joeroe.io/about-landing-page/</link>
-      <pubDate>Thu, 07 Sep 2023 12:05:12 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/about-landing-page/</guid>
-      <description>A little about myself that is not work related
-Journey to Web3 Slighly work related&amp;hellip; but this is how I found myself doing web3 development as a traditionally educated fresh out of college person.
-Autobiography I grew up in a lot of places, all of which are mentioned here I give credit to my environment for shaping me into who I am.
-Philosophical Interests I didn&amp;rsquo;t study philosophy because it was an easy liberal arts major (it was).</description>
-    </item>
-    <item>
-      <title>Autobiography</title>
-      <link>https://risotto.joeroe.io/about/autobiography/</link>
-      <pubDate>Thu, 07 Sep 2023 12:05:12 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/about/autobiography/</guid>
-      <description>I was born in Paris France, and moved to California when I was 3. I learned English in pre-school and blended in with Americans by about 2nd grade. My first language was French and I continue to speak it fluently with my mother and my family who almost all live in France aside from 2 English cousins.
-Hawaii From 4th grade to completing my freshmen year of highschool, I lived in Hawaii.</description>
-    </item>
-    <item>
-      <title>Projects</title>
-      <link>https://risotto.joeroe.io/project-landing-page/</link>
-      <pubDate>Thu, 07 Sep 2023 12:05:12 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/project-landing-page/</guid>
-      <description>A list of projects I&amp;rsquo;ve worked on with a brief description. Click for more details.
-Spyglass Labs Some work I did at a blockchain data analytics start-up
-House DAO Still being prototyped, this is a DAO that manages chores among a shared living space
-Narcos Substreams A Substreams powered Subgraph with all Narcos NFT mintings
-Decentralized Communal Debt Management An application that keeps track of debt among a group of people</description>
     </item>
   </channel>
 </rss>

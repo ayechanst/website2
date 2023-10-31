@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on ayechanWeb3Dev</title>
-    <link>https://example.org/tags/</link>
-    <description>Recent content in Tags on ayechanWeb3Dev</description>
+    <title>Tags on ayechan portfolio</title>
+    <link>https://risotto.joeroe.io/tags/</link>
+    <description>Recent content in Tags on ayechan portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="https://risotto.joeroe.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

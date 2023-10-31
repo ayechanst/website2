@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head><title>Projects &ndash; ayechan portfolio</title>
+    <head><title>Decentralized Communal Debt Manager &ndash; ayechan portfolio</title>
 <meta name="description" content="I am a 23 year old self taught web developer who decided my career in philosophy would not have as much of an impact on the world as a career in Web3.">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -42,34 +42,51 @@
 
             <section class="page__body">
     <header class="content__header">
-        <h1>Projects</h1>
+        <h1>Decentralized Communal Debt Manager</h1>
     </header>
     
     <div class="content__body">
-        <p>A list of projects I&rsquo;ve worked on with a brief description. Click for more details.</p>
-<hr>
-<h1 id="spyglass-labsportfoliospyglass"><a href="../portfolio/spyglass">Spyglass Labs</a></h1>
-<p>Some work I did at a blockchain data analytics start-up</p>
-<hr>
-<h1 id="house-daoportfoliochore-dao"><a href="../portfolio/chore-dao">House DAO</a></h1>
-<p>Still being prototyped, this is a DAO that manages chores among
-a shared living space</p>
-<hr>
-<h1 id="narcos-substreamsportfolionarcos-subgraph"><a href="../portfolio/narcos-subgraph">Narcos Substreams</a></h1>
-<p>A Substreams powered Subgraph with all Narcos NFT mintings</p>
-<hr>
-<h1 id="decentralized-communal-debt-managementportfoliodec-debt-manager"><a href="../portfolio/dec-debt-manager">Decentralized Communal Debt Management</a></h1>
-<p>An application that keeps track of debt among a group of people</p>
-<hr>
-<h1 id="dd-store-generatorportfoliodnd-store"><a href="../portfolio/dnd-store">D&amp;D store generator</a></h1>
-<p>A useful application for dungeon masters</p>
-<hr>
-<h1 id="decentralized-gamingportfoliodefi-gaming"><a href="../portfolio/defi-gaming">Decentralized Gaming</a></h1>
-<p>A game I built using a commit reveal scheme</p>
-<hr>
-<h1 id="decentralized-staking-appportfoliodec-staking"><a href="../portfolio/dec-staking">Decentralized Staking App</a></h1>
-<p>An application that allows users to pool money together</p>
-<hr>
+        <p>This is a tool that I decided to build because at
+the time of writting this I live in house with other people, and we share food, rental
+equipment, and pay for each others things often. This makes debt management a priority.</p>
+<p>Project link: <a href="https://debt-manager-nextjs-hwubl6giq-ayechanst.vercel.app/">Debt Manager</a></p>
+<h1 id="goals">Goals</h1>
+<ol>
+<li>Add different groups where debts are tracked separately</li>
+<li>Add people to groups</li>
+<li>Add transactions between people in groups</li>
+<li>Display all debts in an easy to read manner</li>
+</ol>
+<h1 id="tools">Tools</h1>
+<p>Solidity, React, Next.js, TypeScript, Daisy UI, Scaffold-Eth 2.0, Hardhat</p>
+<h1 id="how-it-works">How it works</h1>
+<p>Imagine Jim goes shopping at Costco so Sam can cook food for him, Joe, and
+Dan. Jim would log his grocery recipe in the app and mark everyone as a beneficiary.
+Jim spent 400 so everyone owes him 100. Joe goes on a beer and cigarette run the next
+day, spends 75, and logs the purchase in the app. Sam does not drink or smoke however
+so she is not included in the list of beneficiaries. Now Joe owes Jim less than before,
+Dan owes Jim and Joe now, and Sam owes Jim the same amount. The idea is that debts get
+shifted around instead of needing to be paid immediately.</p>
+<h1 id="graph-data-structure">Graph data structure</h1>
+<p>My biggest problem was how I was going to store two types of data (people, and transactions)
+in a way that would be easy to read from. While researching how to accomplish this I discovered
+graphs. Graphs were straightforward but applying them to my project was difficult because
+resources that explain graphs don&rsquo;t typically use Solidity as their langauge of choice for their
+demonstration. I ended up using structs to represent my edges (transaction data) and nodes (people)
+and storing the edges in a mapping.</p>
+<h1 id="adding-groups">Adding groups</h1>
+<p>Having different groups is a feature I added mid-development because its a very nice
+feature and I didn&rsquo;t originially think of it. This was a big challenge because I had already
+designed my graph data structure to work for a singular group. I overcame this by storing
+graphs in a mapping, and accessing the mapping through a key that is generated upon group
+creation. The biggest problem was Solidity does not like storing structs that have structs
+with arrays in them into a mapping. Retrieving data from the graphs was impossible, so I
+stored my edges and nodes to my graph globally in mappings, and when retrieving data I used
+keys to access specific group data depending on the kind of data the front end wanted.</p>
+<h1 id="adding-transactions">Adding transactions</h1>
+<p>The Solidity for this feature was not as hard as implementing the graph, but challenging
+on the front end. I learned a lot about React in this project especially about props and
+loading lists of checkboxes.</p>
 
     </div>
     <footer class="content__footer"></footer>
@@ -111,7 +128,7 @@ a shared living space</p>
     
         <p>
             
-            2023-09-07
+            2023-09-08
         </p>
     
 
