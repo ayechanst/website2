@@ -1,12 +1,15 @@
 baseURL = "https://risotto.joeroe.io"
-theme = 'risotto'
-title = 'ayechan portfolio'
 languageCode = 'en-us'
+title = 'ayechan portfolio'
+theme = 'risotto'
+
+[context.production.environment]
+  HUGO_VERSION = "0.115.4"
 
 # Automatically add content sections to main menu
 # sectionPagesMenu = "main"
-
 # Sidebar: about/bio
+
 [params.about]
 title = "My name is Aye Chan"
 description = "I am a 23 year old self taught web developer who decided my career in philosophy would not have as much of an impact on the world as a career in Web3."
@@ -30,3 +33,4 @@ url = "https://t.me/ayechan1000"
 icon = "fa-brands fa-twitter"
 title = "Twitter"
 url = "https://twitter.com/ayechanst"
+theme = 'risotto'
