@@ -15,7 +15,7 @@ Some work I did at a blockchain data analytics start-up
 
 # [House DAO](../portfolio/house-dao)
 
-Still being prototyped, this is a DAO that manages chores among
+Still being prototyped, this is a DAO that manages tasks among
 a shared living space
 
 ---
