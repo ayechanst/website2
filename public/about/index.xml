@@ -2,43 +2,50 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on ayechan portfolio</title>
-    <link>https://risotto.joeroe.io/about/</link>
+    <link>https://website2-9vs02ufgw-ayechanst.vercel.app/about/</link>
     <description>Recent content in Abouts on ayechan portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2023 08:41:21 -0700</lastBuildDate>
-    <atom:link href="https://risotto.joeroe.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 08:41:21 -0700</lastBuildDate><atom:link href="https://website2-9vs02ufgw-ayechanst.vercel.app/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal Life</title>
-      <link>https://risotto.joeroe.io/about/personal-life/</link>
+      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/about/personal-life/</link>
       <pubDate>Fri, 08 Sep 2023 08:41:21 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/about/personal-life/</guid>
+      
+      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/about/personal-life/</guid>
       <description>My first name is Aye Chan with a space in it, it causes a lot of confusion. I was born in France, and I am passionate about philosophy, cooking, nature, people, and programming.
 Education I&amp;rsquo;ve never been a fan of conventional public schooling, other than all the interesting people who come from all walks of life. Pre-college, I went to schools in California, Hawaii, and Florida. After highschool I graduated from the Univeristy of West Florida where I discovered my passion for philosophy.</description>
     </item>
+    
     <item>
       <title>Philosophical Interests</title>
-      <link>https://risotto.joeroe.io/about/philosophical-interests/</link>
+      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/about/philosophical-interests/</link>
       <pubDate>Fri, 08 Sep 2023 08:41:21 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/about/philosophical-interests/</guid>
+      
+      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/about/philosophical-interests/</guid>
       <description>I studied philosophy in college and my favorite classes were the philosophy of science, and critical thinking. I also enjoyed my aesthetic classes like the philosophy of art, the philosophy of film, and the philosophy of mind. Classes I like a bit less was modern philosophy which covered thinkers between 1600-1800.
 Personal interest in existentialism Existentialism is probably my favorite type of philosophy because it helped me cope with starting my adult life, away from parental guidance, my obligations as a son, and my rigorous swim career.</description>
     </item>
+    
     <item>
       <title>Web3 Journey</title>
-      <link>https://risotto.joeroe.io/about/journey/</link>
+      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/about/journey/</link>
       <pubDate>Thu, 07 Sep 2023 16:40:56 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/about/journey/</guid>
+      
+      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/about/journey/</guid>
       <description>ayechan@pop-os:~/about/journey
 I got into crypto and web development my senior year of college after a long talk with the chairman of the philosophy department. I studied philosophy in college and I was entertaining the thought of continuing my education and eventually become a philosophy professor. My passion for philosophy has no bounds, but the social and hierarchical structure of academia along with its obligations did not match with my life philosophy, so I decided to go a different route.</description>
     </item>
+    
     <item>
       <title>Autobiography</title>
-      <link>https://risotto.joeroe.io/about/autobiography/</link>
+      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/about/autobiography/</link>
       <pubDate>Thu, 07 Sep 2023 12:05:12 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/about/autobiography/</guid>
+      
+      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/about/autobiography/</guid>
       <description>I was born in Paris France, and moved to California when I was 3. I learned English in pre-school and blended in with Americans by about 2nd grade. My first language was French and I continue to speak it fluently with my mother and my family who almost all live in France aside from 2 English cousins.
 Hawaii From 4th grade to completing my freshmen year of highschool, I lived in Hawaii.</description>
     </item>
+    
   </channel>
 </rss>

@@ -2,67 +2,96 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolios on ayechan portfolio</title>
-    <link>https://risotto.joeroe.io/portfolio/</link>
+    <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/</link>
     <description>Recent content in Portfolios on ayechan portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Oct 2023 13:27:22 -0700</lastBuildDate>
-    <atom:link href="https://risotto.joeroe.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Narcos Substreams Powered Subgraph</title>
-      <link>https://risotto.joeroe.io/portfolio/narcos-subgraph/</link>
-      <pubDate>Sun, 08 Oct 2023 13:27:22 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/portfolio/narcos-subgraph/</guid>
-      <description>A Subgraph is an open-source and decetralized API with high data correctness that people can query from. A Substreams are a way of indexing blockchain data in a parallelizable way to query blockchain data very quickly. Subgraphs powered by Substreams allows for ready to use blockchain data without worrying about using a querying language. The specific goal of this project was to filter through mintings of a NFT project called Narcos.</description>
-    </item>
-    <item>
-      <title>Dungeons and Dragons Store</title>
-      <link>https://risotto.joeroe.io/portfolio/dnd-store/</link>
-      <pubDate>Fri, 08 Sep 2023 13:27:22 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/portfolio/dnd-store/</guid>
-      <description>As a dungeon master for my pary adventuring through Icewind Dale, I wanted to build a tool that would make my job easier. Players visiting shops was a problem for me because shops have hundreds of items and sometimes shops don&amp;rsquo;t exactly have what players are looking for. So I turned to the internet to generate random stores for me, but none of them were satisfactory to my standards. So I started to create my own.</description>
-    </item>
-    <item>
-      <title>Dec Staking</title>
-      <link>https://risotto.joeroe.io/portfolio/dec-staking/</link>
-      <pubDate>Fri, 08 Sep 2023 13:26:56 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/portfolio/dec-staking/</guid>
-      <description>This project allows users to pool money together and get their money back after two conditions are met. First a certain amount of time needs to have passed, and second the a minumum threshold of money in the pool needs to be met. If the monetary goal is met, then the stake was a success and users can use the pooled money to accomplish their larger goal. If the monetary goal is not met, then after a certain amount of time users can get their money back and try again.</description>
-    </item>
-    <item>
-      <title>Decentralized Gaming</title>
-      <link>https://risotto.joeroe.io/portfolio/defi-gaming/</link>
-      <pubDate>Fri, 08 Sep 2023 13:23:58 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/portfolio/defi-gaming/</guid>
-      <description>Block Paper Scissors is a game that uses a commit reveal scheme to make cheating impossible. The purpose of the project was to familiarize myself with building a front-end for a smart contract. The contract follows the same struture as a blog that demonstrated a rock paper scissors game, but the code was very broken and also did not properly implement the commit reveal scheme. I fixed the code and the scheme.</description>
-    </item>
-    <item>
-      <title>Spyglass Labs</title>
-      <link>https://risotto.joeroe.io/portfolio/spyglass/</link>
-      <pubDate>Fri, 08 Sep 2023 13:10:53 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/portfolio/spyglass/</guid>
-      <description>Spyglass Labs is a web3 startup that I intered at. The platform is a no-code data analytics platform similar to something like Dune Analytics.
-Goals Gather data to demonstrate the functionality of the platform Write tests to ensure the UI and UX works smoothly as new features are implemented Tools Javascript, Python, Cypress, Selenium, Infura
-Data gathering execution for Ethereum mainnet and Near The data my intern colleague and I collected were the names and ABI&amp;rsquo;s of the 100 most transacted on smart contracts.</description>
-    </item>
-    <item>
-      <title>Decentralized Communal Debt Manager</title>
-      <link>https://risotto.joeroe.io/portfolio/dec-debt-manager/</link>
-      <pubDate>Fri, 08 Sep 2023 11:30:06 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/portfolio/dec-debt-manager/</guid>
-      <description>This is a tool that I decided to build because at the time of writting this I live in house with other people, and we share food, rental equipment, and pay for each others things often. This makes debt management a priority.
-Project link: Debt Manager
-Goals Add different groups where debts are tracked separately Add people to groups Add transactions between people in groups Display all debts in an easy to read manner Tools Solidity, React, Next.</description>
-    </item>
+    <lastBuildDate>Tue, 06 Feb 2024 11:30:06 -0700</lastBuildDate><atom:link href="https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>House DAO</title>
-      <link>https://risotto.joeroe.io/portfolio/chore-dao/</link>
-      <pubDate>Fri, 08 Sep 2023 11:30:06 -0700</pubDate>
-      <guid>https://risotto.joeroe.io/portfolio/chore-dao/</guid>
-      <description>d A tool to keep a house clean autonomously.
-Projet link: Not available yet
-Goals Have the DAO be able to mint custom task NFT&amp;rsquo;s Have the DAO payout completed task NFT&amp;rsquo;s when submitted to the Bounty Contract Automate the minting of custom task NFT&amp;rsquo;s Allow members to trade NFT&amp;rsquo;s Tools Solidity, OpenZepplin, Next.js, TypeScript, Daisy UI, Scaffold-Eth 2.0, Hardhat
-How it works Members can join the DAO</description>
+      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/house-dao/</link>
+      <pubDate>Tue, 06 Feb 2024 11:30:06 -0700</pubDate>
+      
+      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/house-dao/</guid>
+      <description>This is a prototype of a full-blown decentralized application. It is called Domus DAO as Domus means home in Roman and I thought an epic app should have an epic name. The gist of the project is that people living in a communal living space can all join a DAO. In the DAO members are able to suggest tasks to be done around the house, and assign members to do the task.</description>
     </item>
+    
+    <item>
+      <title>Tornado Cash Substreams</title>
+      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/tornado-cash/</link>
+      <pubDate>Fri, 17 Nov 2023 11:30:06 -0700</pubDate>
+      
+      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/tornado-cash/</guid>
+      <description>Tornado Cash is a decentralized finance protocol called a mixer. I created a substreams to look at how much ethereum is being sent into and out of the Tornado Cash mixer.
+Goals    Tools Map&amp;hellip; </description>
+    </item>
+    
+    <item>
+      <title>Narcos Substreams Powered Subgraph</title>
+      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/narcos-subgraph/</link>
+      <pubDate>Sun, 08 Oct 2023 13:27:22 -0700</pubDate>
+      
+      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/narcos-subgraph/</guid>
+      <description>A Subgraph is an open-source and decetralized API with high data correctness that people can query from. A Substreams are a way of indexing blockchain data in a parallelizable way to query blockchain data very quickly. Subgraphs powered by Substreams allows for ready to use blockchain data without worrying about using a querying language. The specific goal of this project was to filter through mintings of a NFT project called Narcos.</description>
+    </item>
+    
+    <item>
+      <title>Dungeons and Dragons Store</title>
+      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dnd-store/</link>
+      <pubDate>Fri, 08 Sep 2023 13:27:22 -0700</pubDate>
+      
+      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dnd-store/</guid>
+      <description>As a dungeon master for my pary adventuring through Icewind Dale, I wanted to build a tool that would make my job easier. Players visiting shops was a problem for me because shops have hundreds of items and sometimes shops don&amp;rsquo;t exactly have what players are looking for. So I turned to the internet to generate random stores for me, but none of them were satisfactory to my standards. So I started to create my own.</description>
+    </item>
+    
+    <item>
+      <title>Dec Staking</title>
+      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dec-staking/</link>
+      <pubDate>Fri, 08 Sep 2023 13:26:56 -0700</pubDate>
+      
+      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dec-staking/</guid>
+      <description>This project allows users to pool money together and get their money back after two conditions are met. First a certain amount of time needs to have passed, and second the a minumum threshold of money in the pool needs to be met. If the monetary goal is met, then the stake was a success and users can use the pooled money to accomplish their larger goal. If the monetary goal is not met, then after a certain amount of time users can get their money back and try again.</description>
+    </item>
+    
+    <item>
+      <title>Decentralized Gaming</title>
+      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/defi-gaming/</link>
+      <pubDate>Fri, 08 Sep 2023 13:23:58 -0700</pubDate>
+      
+      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/defi-gaming/</guid>
+      <description>Block Paper Scissors is a game that uses a commit reveal scheme to make cheating impossible. The purpose of the project was to familiarize myself with building a front-end for a smart contract. The contract follows the same struture as a blog that demonstrated a rock paper scissors game, but the code was very broken and also did not properly implement the commit reveal scheme. I fixed the code and the scheme.</description>
+    </item>
+    
+    <item>
+      <title>Spyglass Labs</title>
+      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/spyglass/</link>
+      <pubDate>Fri, 08 Sep 2023 13:10:53 -0700</pubDate>
+      
+      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/spyglass/</guid>
+      <description>Spyglass Labs is a web3 startup that I intered at. The platform is a no-code data analytics platform similar to something like Dune Analytics.
+Goals  Gather data to demonstrate the functionality of the platform Write tests to ensure the UI and UX works smoothly as new features are implemented  Tools Javascript, Python, Cypress, Selenium, Infura
+Data gathering execution for Ethereum mainnet and Near The data my intern colleague and I collected were the names and ABI&amp;rsquo;s of the 100 most transacted on smart contracts.</description>
+    </item>
+    
+    <item>
+      <title>Decentralized Communal Debt Manager</title>
+      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dec-debt-manager/</link>
+      <pubDate>Fri, 08 Sep 2023 11:30:06 -0700</pubDate>
+      
+      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dec-debt-manager/</guid>
+      <description>This is a tool that I decided to build because at the time of writting this I live in house with other people, and we share food, rental equipment, and pay for each others things often. This makes debt management a priority.
+Project link: Debt Manager
+Goals  Add different groups where debts are tracked separately Add people to groups Add transactions between people in groups Display all debts in an easy to read manner  Tools Solidity, React, Next.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/sushi-swap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/sushi-swap/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
