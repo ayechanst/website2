@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head><title>Narcos Substreams Powered Subgraph &ndash; ayechan portfolio</title>
+    <head><title>House DAO &ndash; ayechan portfolio</title>
 <meta name="description" content="I am a 23 year old self taught web developer who decided my career in philosophy would not have as much of an impact on the world as a career in Web3.">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -42,45 +42,58 @@
 
             <section class="page__body">
     <header class="content__header">
-        <h1>Narcos Substreams Powered Subgraph</h1>
+        <h1>House DAO</h1>
     </header>
     <div class="content__body">
-        <p>A Subgraph is an open-source and decetralized API with high data correctness that people can
-query from. A Substreams are a way of indexing blockchain data in a parallelizable way to
-query blockchain data very quickly. Subgraphs powered by Substreams allows for ready to use
-blockchain data without worrying about using a querying language. The specific goal of this
-project was to filter through mintings of a NFT project called Narcos. From all the mintings,
-I wanted to identify which of the Narcos had a particular trait called &ldquo;cocaine eyes&rdquo;.</p>
-<h1 id="goals">Goals</h1>
+        <p>This is a prototype of a full-blown decentralized application. It is called Domus DAO
+as Domus means home in Roman and I thought an epic app should have an epic name. The
+gist of the project is that people living in a communal living space can all join a
+DAO. In the DAO members are able to suggest tasks to be done around the house, and
+assign members to do the task.
+After submitting the &ldquo;task proposal&rdquo;, members vote on if the task should be vetoed or
+approved. If the task is approved then someone becomes the task manager for a period
+of time. The time period has not been implemented yet, but when the manager is done,
+each member gives the manager a grade. When the task is graded, the &ldquo;cycle manager&rdquo;
+button is clicked and the next task member is assigned as the task manager.</p>
+<p>Projet link: <a href="https://nextjs-ji39vo07f-ayechanst.vercel.app/">House DAO</a></p>
+<h1 id="features">Features</h1>
 <ol>
-<li>Make a Substreams</li>
-<li>Filter the blockchain data</li>
-<li>Make a Subgraph</li>
-<li>Connect the Subgraph to the Substreams</li>
+<li>Add new members</li>
+<li>Add new tasks</li>
+<li>Grade members on the quality of their completed task</li>
+<li>Cycle the task manager if they are done</li>
+<li>View a current member&rsquo;s overall reputation</li>
 </ol>
 <h1 id="tools">Tools</h1>
-<p>Rust, Substreams Rust Library, Subgraphs, Protobufs, Directed Acyclic Graph (DAG)</p>
-<h1 id="making-a-substreams">Making a Substreams</h1>
-<p>Substreams are composed of Rust modules. I learned Rust with the intention of building
-substreams, and learning about the structure of Substreams as well as Substreams Rust Library
-was challenging.</p>
-<h1 id="map-transfers">Map Transfers</h1>
-<p>The first module in my Substreams was in charge of listening to all blocks and filtering out
-Narco NFT transfers. From these transfers, all the NFTs that had a from address of 0
-(indicating that the transfer was a mint) were filtered so the remaining data to work with
-was every Narcos minted.</p>
-<h1 id="graph-out">Graph Out</h1>
-<p>The last module takes the output of the map_transfers module and loads the data into a
-subgraph that was made on the Edge and Node website.</p>
-<h1 id="problems">Problems</h1>
-<p>The main problem in accomplishing the goal is that subgraphs do not have access to data on
-IPFS (Interplanetary File System) which is where NFT metadata is typically stored. The only
-way to find the &ldquo;cocaine eyes&rdquo; trait was to look at the metadata on IPFS which was not
-possible, so the final Subgraph just contains to mintings of the Narcos NFT.</p>
-<h1 id="overcoming-problems">Overcoming Problems</h1>
-<p>If I were to do this project again, I would load my data into a subgraph, and instead load it
-into a database where I could use scripts to further filter the NFTs to be left with the ones
-with the cocaine eyes trait.</p>
+<p>Solidity, Next.js, TypeScript, Daisy UI, Scaffold-Eth 2.0, Hardhat</p>
+<h1 id="adding-members">Adding Members</h1>
+<p>As this is a prototype, there is no identity verification or crytpo wallet connecting.
+The new members are just a string and are added to an array of members.</p>
+<h1 id="adding-tasks">Adding Tasks</h1>
+<p>The tasks are structs in solidity, and have a name, the array of members assigned to
+the task, and other meta-data for logic purposes.</p>
+<h1 id="voting-on-a-task">Voting on a Task</h1>
+<p>Once the new task is proposed, it goes into a voting que where members vote yes or no.
+Again, since this is a prototype there is no voting verification of any sort, the user
+just clicks yes or no until the votes add up to the amount of members in the DAO, and
+the votes are divided by 2 to determine if the task is approved or not.</p>
+<h1 id="grading-the-manager">Grading the Manager</h1>
+<p>In the same manner as voting, there is no verification of anything but the user just
+gives a grade (should be between 0-10) and the grades are averaged out and assigned to
+the task manager.</p>
+<h1 id="checking-members-reputation">Checking Member&rsquo;s Reputation</h1>
+<p>There is a read function in the smart contract that takes all of a member&rsquo;s grades, adds
+the grades up, and divides by the number of tasks they have completed over the course of
+being in the DAO. This number is what their reputation is and is what is displayed when
+clicked on a member&rsquo;s name in the &ldquo;Click for Reputation&rdquo; section.</p>
+<h1 id="future-features">Future Features</h1>
+<ol>
+<li>Tasks will be NFTs instead of structs</li>
+<li>There will be wallet connection and identitiy verification for every step</li>
+<li>The UI will look amazing</li>
+<li>There will not be one House DAO, but rather many which can be created on the fly
+to keep different DAO members separated</li>
+</ol>
 
     </div>
     <footer class="content__footer"></footer>
@@ -122,7 +135,7 @@ with the cocaine eyes trait.</p>
     
         <p>
             
-            2023-10-08
+            2024-02-06
         </p>
     
 

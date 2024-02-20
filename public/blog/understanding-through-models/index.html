@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-    <head><title>Narcos Substreams Powered Subgraph &ndash; ayechan portfolio</title>
+    <head><title>Understanding Through Models &ndash; ayechan portfolio</title>
 <meta name="description" content="I am a 23 year old self taught web developer who decided my career in philosophy would not have as much of an impact on the world as a career in Web3.">
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -42,45 +42,17 @@
 
             <section class="page__body">
     <header class="content__header">
-        <h1>Narcos Substreams Powered Subgraph</h1>
+        <h1>Understanding Through Models</h1>
     </header>
     <div class="content__body">
-        <p>A Subgraph is an open-source and decetralized API with high data correctness that people can
-query from. A Substreams are a way of indexing blockchain data in a parallelizable way to
-query blockchain data very quickly. Subgraphs powered by Substreams allows for ready to use
-blockchain data without worrying about using a querying language. The specific goal of this
-project was to filter through mintings of a NFT project called Narcos. From all the mintings,
-I wanted to identify which of the Narcos had a particular trait called &ldquo;cocaine eyes&rdquo;.</p>
-<h1 id="goals">Goals</h1>
-<ol>
-<li>Make a Substreams</li>
-<li>Filter the blockchain data</li>
-<li>Make a Subgraph</li>
-<li>Connect the Subgraph to the Substreams</li>
-</ol>
-<h1 id="tools">Tools</h1>
-<p>Rust, Substreams Rust Library, Subgraphs, Protobufs, Directed Acyclic Graph (DAG)</p>
-<h1 id="making-a-substreams">Making a Substreams</h1>
-<p>Substreams are composed of Rust modules. I learned Rust with the intention of building
-substreams, and learning about the structure of Substreams as well as Substreams Rust Library
-was challenging.</p>
-<h1 id="map-transfers">Map Transfers</h1>
-<p>The first module in my Substreams was in charge of listening to all blocks and filtering out
-Narco NFT transfers. From these transfers, all the NFTs that had a from address of 0
-(indicating that the transfer was a mint) were filtered so the remaining data to work with
-was every Narcos minted.</p>
-<h1 id="graph-out">Graph Out</h1>
-<p>The last module takes the output of the map_transfers module and loads the data into a
-subgraph that was made on the Edge and Node website.</p>
-<h1 id="problems">Problems</h1>
-<p>The main problem in accomplishing the goal is that subgraphs do not have access to data on
-IPFS (Interplanetary File System) which is where NFT metadata is typically stored. The only
-way to find the &ldquo;cocaine eyes&rdquo; trait was to look at the metadata on IPFS which was not
-possible, so the final Subgraph just contains to mintings of the Narcos NFT.</p>
-<h1 id="overcoming-problems">Overcoming Problems</h1>
-<p>If I were to do this project again, I would load my data into a subgraph, and instead load it
-into a database where I could use scripts to further filter the NFTs to be left with the ones
-with the cocaine eyes trait.</p>
+        <p>I want to write about how I think humans reason about things. It seems like the main structure holding understanding together are models.
+I&rsquo;d argue that everyone has a model of everything they know and understand, and some models are simply better than others. Let&rsquo;s dive into
+the specifics.</p>
+<h3 id="models-are-always-wrong">Models are always wrong</h3>
+<p>Of course they are, because a model is not the thing itself. Take a map of a college campus for example. Does the map feature the bench in
+front of the library? Probably not, but if it does, does the map feature the scrape from some skateboard incident? No. So the map is wrong.
+But it does not matter because models are only as useful as their intenteded purpose. For a new professor, the map is fine as it is. For a
+bench repair person, they won&rsquo;t know which bench needs repairing so the model is useless.</p>
 
     </div>
     <footer class="content__footer"></footer>
@@ -122,7 +94,7 @@ with the cocaine eyes trait.</p>
     
         <p>
             
-            2023-10-08
+            2024-02-15
         </p>
     
 

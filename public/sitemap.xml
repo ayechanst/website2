@@ -2,61 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/house-dao/</loc>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2024-02-15T14:24:07-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/understanding-through-models/</loc>
+    <lastmod>2024-02-15T14:24:07-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portfolio/house-dao/</loc>
     <lastmod>2024-02-06T11:30:06-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/</loc>
+    <loc>http://localhost:1313/portfolio/</loc>
     <lastmod>2024-02-06T11:30:06-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/tornado-cash/</loc>
+    <loc>http://localhost:1313/portfolio/tornado-cash/</loc>
     <lastmod>2023-11-17T11:30:06-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/narcos-subgraph/</loc>
+    <loc>http://localhost:1313/portfolio/narcos-subgraph/</loc>
     <lastmod>2023-10-08T13:27:22-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dnd-store/</loc>
+    <loc>http://localhost:1313/portfolio/dnd-store/</loc>
     <lastmod>2023-09-08T13:27:22-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dec-staking/</loc>
+    <loc>http://localhost:1313/portfolio/dec-staking/</loc>
     <lastmod>2023-09-08T13:26:56-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/defi-gaming/</loc>
+    <loc>http://localhost:1313/portfolio/defi-gaming/</loc>
     <lastmod>2023-09-08T13:23:58-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/spyglass/</loc>
+    <loc>http://localhost:1313/portfolio/spyglass/</loc>
     <lastmod>2023-09-08T13:10:53-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dec-debt-manager/</loc>
+    <loc>http://localhost:1313/portfolio/dec-debt-manager/</loc>
     <lastmod>2023-09-08T11:30:06-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2023-09-08T08:41:21-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/about/personal-life/</loc>
+    <loc>http://localhost:1313/about/personal-life/</loc>
     <lastmod>2023-09-08T08:41:21-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/about/philosophical-interests/</loc>
+    <loc>http://localhost:1313/about/philosophical-interests/</loc>
     <lastmod>2023-09-08T08:41:21-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/about/journey/</loc>
+    <loc>http://localhost:1313/about/journey/</loc>
     <lastmod>2023-09-07T16:40:56-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/about-landing-page/</loc>
+    <loc>http://localhost:1313/about-landing-page/</loc>
     <lastmod>2023-09-07T12:05:12-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/about/autobiography/</loc>
+    <loc>http://localhost:1313/about/autobiography/</loc>
     <lastmod>2023-09-07T12:05:12-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/project-landing-page/</loc>
+    <loc>http://localhost:1313/blog-landing-page/</loc>
     <lastmod>2023-09-07T12:05:12-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/</loc>
+    <loc>http://localhost:1313/project-landing-page/</loc>
+    <lastmod>2023-09-07T12:05:12-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/video-landing-page/</loc>
+    <lastmod>2023-09-07T12:05:12-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2023-09-06T12:32:26-07:00</lastmod>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/sushi-swap/</loc>
+    <loc>http://localhost:1313/portfolio/sushi-swap/</loc>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://website2-9vs02ufgw-ayechanst.vercel.app/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

@@ -1,7 +1,7 @@
-baseURL = "https://website2-9vs02ufgw-ayechanst.vercel.app"
+baseURL = "http://localhost:1313/"
 languageCode = 'en-us'
 title = 'ayechan portfolio'
-# theme = 'risotto'
+theme = 'risotto'
 
 [context.production.environment]
   HUGO_VERSION = "0.115.4"

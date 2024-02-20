@@ -2,72 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome on ayechan portfolio</title>
-    <link>https://website2-9vs02ufgw-ayechanst.vercel.app/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Welcome on ayechan portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Sep 2023 12:32:26 -0700</lastBuildDate><atom:link href="https://website2-9vs02ufgw-ayechanst.vercel.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Sep 2023 12:32:26 -0700</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Through Models</title>
+      <link>http://localhost:1313/blog/understanding-through-models/</link>
+      <pubDate>Thu, 15 Feb 2024 14:24:07 -0800</pubDate>
+      
+      <guid>http://localhost:1313/blog/understanding-through-models/</guid>
+      <description>I want to write about how I think humans reason about things. It seems like the main structure holding understanding together are models. I&amp;rsquo;d argue that everyone has a model of everything they know and understand, and some models are simply better than others. Let&amp;rsquo;s dive into the specifics.
+Models are always wrong Of course they are, because a model is not the thing itself. Take a map of a college campus for example.</description>
+    </item>
+    
     <item>
       <title>House DAO</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/house-dao/</link>
+      <link>http://localhost:1313/portfolio/house-dao/</link>
       <pubDate>Tue, 06 Feb 2024 11:30:06 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/house-dao/</guid>
+      <guid>http://localhost:1313/portfolio/house-dao/</guid>
       <description>This is a prototype of a full-blown decentralized application. It is called Domus DAO as Domus means home in Roman and I thought an epic app should have an epic name. The gist of the project is that people living in a communal living space can all join a DAO. In the DAO members are able to suggest tasks to be done around the house, and assign members to do the task.</description>
     </item>
     
     <item>
       <title>Tornado Cash Substreams</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/tornado-cash/</link>
+      <link>http://localhost:1313/portfolio/tornado-cash/</link>
       <pubDate>Fri, 17 Nov 2023 11:30:06 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/tornado-cash/</guid>
+      <guid>http://localhost:1313/portfolio/tornado-cash/</guid>
       <description>Tornado Cash is a decentralized finance protocol called a mixer. I created a substreams to look at how much ethereum is being sent into and out of the Tornado Cash mixer.
 Goals    Tools Map&amp;hellip; </description>
     </item>
     
     <item>
       <title>Narcos Substreams Powered Subgraph</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/narcos-subgraph/</link>
+      <link>http://localhost:1313/portfolio/narcos-subgraph/</link>
       <pubDate>Sun, 08 Oct 2023 13:27:22 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/narcos-subgraph/</guid>
+      <guid>http://localhost:1313/portfolio/narcos-subgraph/</guid>
       <description>A Subgraph is an open-source and decetralized API with high data correctness that people can query from. A Substreams are a way of indexing blockchain data in a parallelizable way to query blockchain data very quickly. Subgraphs powered by Substreams allows for ready to use blockchain data without worrying about using a querying language. The specific goal of this project was to filter through mintings of a NFT project called Narcos.</description>
     </item>
     
     <item>
       <title>Dungeons and Dragons Store</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dnd-store/</link>
+      <link>http://localhost:1313/portfolio/dnd-store/</link>
       <pubDate>Fri, 08 Sep 2023 13:27:22 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dnd-store/</guid>
+      <guid>http://localhost:1313/portfolio/dnd-store/</guid>
       <description>As a dungeon master for my pary adventuring through Icewind Dale, I wanted to build a tool that would make my job easier. Players visiting shops was a problem for me because shops have hundreds of items and sometimes shops don&amp;rsquo;t exactly have what players are looking for. So I turned to the internet to generate random stores for me, but none of them were satisfactory to my standards. So I started to create my own.</description>
     </item>
     
     <item>
       <title>Dec Staking</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dec-staking/</link>
+      <link>http://localhost:1313/portfolio/dec-staking/</link>
       <pubDate>Fri, 08 Sep 2023 13:26:56 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dec-staking/</guid>
+      <guid>http://localhost:1313/portfolio/dec-staking/</guid>
       <description>This project allows users to pool money together and get their money back after two conditions are met. First a certain amount of time needs to have passed, and second the a minumum threshold of money in the pool needs to be met. If the monetary goal is met, then the stake was a success and users can use the pooled money to accomplish their larger goal. If the monetary goal is not met, then after a certain amount of time users can get their money back and try again.</description>
     </item>
     
     <item>
       <title>Decentralized Gaming</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/defi-gaming/</link>
+      <link>http://localhost:1313/portfolio/defi-gaming/</link>
       <pubDate>Fri, 08 Sep 2023 13:23:58 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/defi-gaming/</guid>
+      <guid>http://localhost:1313/portfolio/defi-gaming/</guid>
       <description>Block Paper Scissors is a game that uses a commit reveal scheme to make cheating impossible. The purpose of the project was to familiarize myself with building a front-end for a smart contract. The contract follows the same struture as a blog that demonstrated a rock paper scissors game, but the code was very broken and also did not properly implement the commit reveal scheme. I fixed the code and the scheme.</description>
     </item>
     
     <item>
       <title>Spyglass Labs</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/spyglass/</link>
+      <link>http://localhost:1313/portfolio/spyglass/</link>
       <pubDate>Fri, 08 Sep 2023 13:10:53 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/spyglass/</guid>
+      <guid>http://localhost:1313/portfolio/spyglass/</guid>
       <description>Spyglass Labs is a web3 startup that I intered at. The platform is a no-code data analytics platform similar to something like Dune Analytics.
 Goals  Gather data to demonstrate the functionality of the platform Write tests to ensure the UI and UX works smoothly as new features are implemented  Tools Javascript, Python, Cypress, Selenium, Infura
 Data gathering execution for Ethereum mainnet and Near The data my intern colleague and I collected were the names and ABI&amp;rsquo;s of the 100 most transacted on smart contracts.</description>
@@ -75,10 +85,10 @@ Data gathering execution for Ethereum mainnet and Near The data my intern collea
     
     <item>
       <title>Decentralized Communal Debt Manager</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dec-debt-manager/</link>
+      <link>http://localhost:1313/portfolio/dec-debt-manager/</link>
       <pubDate>Fri, 08 Sep 2023 11:30:06 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/dec-debt-manager/</guid>
+      <guid>http://localhost:1313/portfolio/dec-debt-manager/</guid>
       <description>This is a tool that I decided to build because at the time of writting this I live in house with other people, and we share food, rental equipment, and pay for each others things often. This makes debt management a priority.
 Project link: Debt Manager
 Goals  Add different groups where debts are tracked separately Add people to groups Add transactions between people in groups Display all debts in an easy to read manner  Tools Solidity, React, Next.</description>
@@ -86,40 +96,40 @@ Goals  Add different groups where debts are tracked separately Add people to gro
     
     <item>
       <title>Personal Life</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/about/personal-life/</link>
+      <link>http://localhost:1313/about/personal-life/</link>
       <pubDate>Fri, 08 Sep 2023 08:41:21 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/about/personal-life/</guid>
+      <guid>http://localhost:1313/about/personal-life/</guid>
       <description>My first name is Aye Chan with a space in it, it causes a lot of confusion. I was born in France, and I am passionate about philosophy, cooking, nature, people, and programming.
 Education I&amp;rsquo;ve never been a fan of conventional public schooling, other than all the interesting people who come from all walks of life. Pre-college, I went to schools in California, Hawaii, and Florida. After highschool I graduated from the Univeristy of West Florida where I discovered my passion for philosophy.</description>
     </item>
     
     <item>
       <title>Philosophical Interests</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/about/philosophical-interests/</link>
+      <link>http://localhost:1313/about/philosophical-interests/</link>
       <pubDate>Fri, 08 Sep 2023 08:41:21 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/about/philosophical-interests/</guid>
+      <guid>http://localhost:1313/about/philosophical-interests/</guid>
       <description>I studied philosophy in college and my favorite classes were the philosophy of science, and critical thinking. I also enjoyed my aesthetic classes like the philosophy of art, the philosophy of film, and the philosophy of mind. Classes I like a bit less was modern philosophy which covered thinkers between 1600-1800.
 Personal interest in existentialism Existentialism is probably my favorite type of philosophy because it helped me cope with starting my adult life, away from parental guidance, my obligations as a son, and my rigorous swim career.</description>
     </item>
     
     <item>
       <title>Web3 Journey</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/about/journey/</link>
+      <link>http://localhost:1313/about/journey/</link>
       <pubDate>Thu, 07 Sep 2023 16:40:56 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/about/journey/</guid>
+      <guid>http://localhost:1313/about/journey/</guid>
       <description>ayechan@pop-os:~/about/journey
 I got into crypto and web development my senior year of college after a long talk with the chairman of the philosophy department. I studied philosophy in college and I was entertaining the thought of continuing my education and eventually become a philosophy professor. My passion for philosophy has no bounds, but the social and hierarchical structure of academia along with its obligations did not match with my life philosophy, so I decided to go a different route.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/about-landing-page/</link>
+      <link>http://localhost:1313/about-landing-page/</link>
       <pubDate>Thu, 07 Sep 2023 12:05:12 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/about-landing-page/</guid>
+      <guid>http://localhost:1313/about-landing-page/</guid>
       <description>A little about myself that is not work related
  Journey to Web3 Slighly work related&amp;hellip; but this is how I found myself doing web3 development as a traditionally educated fresh out of college person.
  Autobiography I grew up in a lot of places, all of which are mentioned here I give credit to my environment for shaping me into who I am.
@@ -128,20 +138,30 @@ I got into crypto and web development my senior year of college after a long tal
     
     <item>
       <title>Autobiography</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/about/autobiography/</link>
+      <link>http://localhost:1313/about/autobiography/</link>
       <pubDate>Thu, 07 Sep 2023 12:05:12 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/about/autobiography/</guid>
+      <guid>http://localhost:1313/about/autobiography/</guid>
       <description>I was born in Paris France, and moved to California when I was 3. I learned English in pre-school and blended in with Americans by about 2nd grade. My first language was French and I continue to speak it fluently with my mother and my family who almost all live in France aside from 2 English cousins.
 Hawaii From 4th grade to completing my freshmen year of highschool, I lived in Hawaii.</description>
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/project-landing-page/</link>
+      <title>Blog Posts</title>
+      <link>http://localhost:1313/blog-landing-page/</link>
       <pubDate>Thu, 07 Sep 2023 12:05:12 -0700</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/project-landing-page/</guid>
+      <guid>http://localhost:1313/blog-landing-page/</guid>
+      <description>Thoughts and opinions about various topics?
+Understanding Through Models What is a model, how does it grow, and how expansive does it need to be for proper &amp;ldquo;understanding&amp;rdquo;?</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/project-landing-page/</link>
+      <pubDate>Thu, 07 Sep 2023 12:05:12 -0700</pubDate>
+      
+      <guid>http://localhost:1313/project-landing-page/</guid>
       <description>A list of projects I&amp;rsquo;ve worked on with a brief description. Click for more details.
  Spyglass Labs Some work I did at a blockchain data analytics start-up
  House DAO Still being prototyped, this is a DAO that manages tasks among a shared living space
@@ -150,11 +170,21 @@ Hawaii From 4th grade to completing my freshmen year of highschool, I lived in H
     </item>
     
     <item>
+      <title>Videos</title>
+      <link>http://localhost:1313/video-landing-page/</link>
+      <pubDate>Thu, 07 Sep 2023 12:05:12 -0700</pubDate>
+      
+      <guid>http://localhost:1313/video-landing-page/</guid>
+      <description>Here are videos about stuff. I&amp;rsquo;ll be making more but for now I have this one / these few:
+Start to Finish dApp in Scaffold-Eth</description>
+    </item>
+    
+    <item>
       <title></title>
-      <link>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/sushi-swap/</link>
+      <link>http://localhost:1313/portfolio/sushi-swap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://website2-9vs02ufgw-ayechanst.vercel.app/portfolio/sushi-swap/</guid>
+      <guid>http://localhost:1313/portfolio/sushi-swap/</guid>
       <description></description>
     </item>
     
