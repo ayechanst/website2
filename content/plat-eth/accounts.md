@@ -74,3 +74,5 @@ without a private key which is why its locked inside the train station.
 This is not too important at the moment, but the nonce is a number that keeps track of the amount of transctions sent by a certain account.
 This is why the **nonce poster** is set right next to the train platform door. It keeps track of how many trains have been sent. We keep
 track of the nonce to prevent re-entrancy attacks which you can read about [here](https://blog.daisie.com/cryptographic-nonce-a-practical-understanding-guide/).
+
+# Now recap the story one more time and continue into wallets!
