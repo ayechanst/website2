@@ -6,16 +6,14 @@
     <description>Recent content in Blogs on ayechan portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Feb 2024 14:24:07 -0800</lastBuildDate><atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 15 Feb 2024 14:24:07 -0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Understanding Through Models</title>
       <link>http://localhost:1313/blog/understanding-through-models/</link>
       <pubDate>Thu, 15 Feb 2024 14:24:07 -0800</pubDate>
-      
       <guid>http://localhost:1313/blog/understanding-through-models/</guid>
-      <description>I want to write about how I think humans reason about things. It seems like the main structure holding understanding together are models. I&amp;rsquo;d argue that everyone has a model of everything they know and understand, and some models are simply better than others. Let&amp;rsquo;s dive into the specifics.
-Models are always wrong Of course they are, because a model is not the thing itself. Take a map of a college campus for example.</description>
+      <description>I want to write about how I think humans reason about things. It seems like the main structure holding understanding together are models. I&amp;rsquo;d argue that everyone has a model of everything they know and understand, and some models are simply better than others. Let&amp;rsquo;s dive into the specifics.&#xA;Models are always wrong Of course they are, because a model is not the thing itself. Take a map of a college campus for example.</description>
     </item>
-    
   </channel>
 </rss>

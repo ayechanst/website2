@@ -6,46 +6,35 @@
     <description>Recent content in Abouts on ayechan portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2023 08:41:21 -0700</lastBuildDate><atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 08:41:21 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal Life</title>
       <link>http://localhost:1313/about/personal-life/</link>
       <pubDate>Fri, 08 Sep 2023 08:41:21 -0700</pubDate>
-      
       <guid>http://localhost:1313/about/personal-life/</guid>
-      <description>My first name is Aye Chan with a space in it, it causes a lot of confusion. I was born in France, and I am passionate about philosophy, cooking, nature, people, and programming.
-Education I&amp;rsquo;ve never been a fan of conventional public schooling, other than all the interesting people who come from all walks of life. Pre-college, I went to schools in California, Hawaii, and Florida. After highschool I graduated from the Univeristy of West Florida where I discovered my passion for philosophy.</description>
+      <description>My first name is Aye Chan with a space in it, it causes a lot of confusion. I was born in France, and I am passionate about philosophy, cooking, nature, people, and programming.&#xA;Education I&amp;rsquo;ve never been a fan of conventional public schooling, other than all the interesting people who come from all walks of life. Pre-college, I went to schools in California, Hawaii, and Florida. After highschool I graduated from the Univeristy of West Florida where I discovered my passion for philosophy.</description>
     </item>
-    
     <item>
       <title>Philosophical Interests</title>
       <link>http://localhost:1313/about/philosophical-interests/</link>
       <pubDate>Fri, 08 Sep 2023 08:41:21 -0700</pubDate>
-      
       <guid>http://localhost:1313/about/philosophical-interests/</guid>
-      <description>I studied philosophy in college and my favorite classes were the philosophy of science, and critical thinking. I also enjoyed my aesthetic classes like the philosophy of art, the philosophy of film, and the philosophy of mind. Classes I like a bit less was modern philosophy which covered thinkers between 1600-1800.
-Personal interest in existentialism Existentialism is probably my favorite type of philosophy because it helped me cope with starting my adult life, away from parental guidance, my obligations as a son, and my rigorous swim career.</description>
+      <description>I studied philosophy in college and my favorite classes were the philosophy of science, and critical thinking. I also enjoyed my aesthetic classes like the philosophy of art, the philosophy of film, and the philosophy of mind. Classes I like a bit less was modern philosophy which covered thinkers between 1600-1800.&#xA;Personal interest in existentialism Existentialism is probably my favorite type of philosophy because it helped me cope with starting my adult life, away from parental guidance, my obligations as a son, and my rigorous swim career.</description>
     </item>
-    
     <item>
       <title>Web3 Journey</title>
       <link>http://localhost:1313/about/journey/</link>
       <pubDate>Thu, 07 Sep 2023 16:40:56 -0700</pubDate>
-      
       <guid>http://localhost:1313/about/journey/</guid>
-      <description>ayechan@pop-os:~/about/journey
-I got into crypto and web development my senior year of college after a long talk with the chairman of the philosophy department. I studied philosophy in college and I was entertaining the thought of continuing my education and eventually become a philosophy professor. My passion for philosophy has no bounds, but the social and hierarchical structure of academia along with its obligations did not match with my life philosophy, so I decided to go a different route.</description>
+      <description>ayechan@pop-os:~/about/journey&#xA;I got into crypto and web development my senior year of college after a long talk with the chairman of the philosophy department. I studied philosophy in college and I was entertaining the thought of continuing my education and eventually become a philosophy professor. My passion for philosophy has no bounds, but the social and hierarchical structure of academia along with its obligations did not match with my life philosophy, so I decided to go a different route.</description>
     </item>
-    
     <item>
       <title>Autobiography</title>
       <link>http://localhost:1313/about/autobiography/</link>
       <pubDate>Thu, 07 Sep 2023 12:05:12 -0700</pubDate>
-      
       <guid>http://localhost:1313/about/autobiography/</guid>
-      <description>I was born in Paris France, and moved to California when I was 3. I learned English in pre-school and blended in with Americans by about 2nd grade. My first language was French and I continue to speak it fluently with my mother and my family who almost all live in France aside from 2 English cousins.
-Hawaii From 4th grade to completing my freshmen year of highschool, I lived in Hawaii.</description>
+      <description>I was born in Paris France, and moved to California when I was 3. I learned English in pre-school and blended in with Americans by about 2nd grade. My first language was French and I continue to speak it fluently with my mother and my family who almost all live in France aside from 2 English cousins.&#xA;Hawaii From 4th grade to completing my freshmen year of highschool, I lived in Hawaii.</description>
     </item>
-    
   </channel>
 </rss>

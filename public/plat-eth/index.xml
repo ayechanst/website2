@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plat-Eths on ayechan portfolio</title>
+    <link>http://localhost:1313/plat-eth/</link>
+    <description>Recent content in Plat-Eths on ayechan portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Feb 2024 12:05:12 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/plat-eth/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Accounts</title>
+      <link>http://localhost:1313/plat-eth/accounts/</link>
+      <pubDate>Mon, 19 Feb 2024 12:05:12 -0700</pubDate>
+      <guid>http://localhost:1313/plat-eth/accounts/</guid>
+      <description>Lets start with a short story to get you situated. After the story we will go into the specifics and purposes of the items. Things in bold are the focus point of the lesson, here they are before the story so you know what to look out for:&#xA;Train Station Address Public Key Private Key Balance Nonce A Little Lonely Station Walking through rolling hills of short grass, you stumble accross a very old and decrepid train station.</description>
+    </item>
+    <item>
+      <title>Pedagogy</title>
+      <link>http://localhost:1313/plat-eth/pedagogy/</link>
+      <pubDate>Mon, 19 Feb 2024 12:05:12 -0700</pubDate>
+      <guid>http://localhost:1313/plat-eth/pedagogy/</guid>
+      <description>Platinum Ethereum is a learning program designed to teach about the Ethereum Protocol using analogies all contained within a single cinematic universe. Why learn about a fictional universe if the goal is to learn about the Ethereum Protocol? Great questions and here&amp;rsquo;s why:&#xA;How do people memorize pi to the 70,000th digit? These people use special memorization techniques where they store information in the form of familiar objects and stories. The more creative and outlandish the story is, the better they store and retrieve information.</description>
+    </item>
+    <item>
+      <title>Simple NFT Example</title>
+      <link>http://localhost:1313/plat-eth/challenge-0/</link>
+      <pubDate>Mon, 19 Feb 2024 12:05:12 -0700</pubDate>
+      <guid>http://localhost:1313/plat-eth/challenge-0/</guid>
+      <description>Following along Speed Run Eth&amp;rsquo;s challenge #0 we will learn about the basics and commit to memory the following:&#xA;Accounts Wallets Transactions Smart Contracts Checkpoint 1: ⛽️ Gas &amp;amp; Wallets 👛 What is a wallet? Wallets manage accounts. There are two sorts of accounts, the accounts that wallets manage are EOA (Externally Owned Accounts). This means the account is owned by a private key.&#xA;But enough information and more analogies, lets start with learning about accounts with the following article:</description>
+    </item>
+    <item>
+      <title>Transactions</title>
+      <link>http://localhost:1313/plat-eth/transactions/</link>
+      <pubDate>Mon, 19 Feb 2024 12:05:12 -0700</pubDate>
+      <guid>http://localhost:1313/plat-eth/transactions/</guid>
+      <description>Now onto transactions, or rather &amp;ldquo;trainsaction&amp;rdquo;. Here are the items to watch out for in this story:&#xA;From address To address Signature Nonce Value Input Data Gas Limit Max Priority Fee Per Gas Max Fee Per Gas Enter the Transplanetary Trains After sitting around in the train station, a robot butler enters the station and you hide behind the gold coins. Looks like he didn&amp;rsquo;t see you. He grabs the huge private key on the desk and walks out the door leading to the platform.</description>
+    </item>
+    <item>
+      <title>Wallets</title>
+      <link>http://localhost:1313/plat-eth/wallets/</link>
+      <pubDate>Mon, 19 Feb 2024 12:05:12 -0700</pubDate>
+      <guid>http://localhost:1313/plat-eth/wallets/</guid>
+      <description>Let&amp;rsquo;s read another story! Remember the SEE Principal!&#xA;The Best Butler After leaving the train station feeling inspired to make your own train station, you pull out your smart phone and create a crypto wallet Poof! A robot butler appears in front of you!&#xA;He is humanoid with a square head, lightbulbs for eyes, and a rectagular metal safe for a chest. He has big ears that look like old car horns.</description>
+    </item>
+  </channel>
+</rss>
